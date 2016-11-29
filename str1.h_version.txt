@@ -1,0 +1,26 @@
+// str1.h
+
+class String
+{
+public :
+    String ();
+    String (const char* ch2);
+    String (const String& objSource);
+    ~String ();
+    void afficher () const;
+    void changerEnMaj ();
+    bool estEgal (const String& str2) const;
+
+    friend ostream& operator<< (ostream& flot, const String& str);
+
+    bool operator== (const String& str2) const;
+    bool operator!= (const String& str2) const;
+
+    String& operator= (const String& str2);
+    String operator+ (const String& str2) const;
+    String& operator+= (const String& str2);
+    bool operator<= (const String& str2) const;
+
+private :
+    char* ch;
+};

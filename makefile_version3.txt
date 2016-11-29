@@ -1,0 +1,17 @@
+str.o : str.h str.cpp
+	g++ -c str.cpp
+
+e9.o : str.h e9.cpp
+	g++ -c e9.cpp
+
+e9 : str.o e9.o
+	g++ -o e9 str.o e9.o
+
+str1.o : str1.h str1.cpp
+	g++ -c str1.cpp
+
+e19.o : str1.h e19.cpp
+	g++ -c e19.cpp
+
+e19 : str1.o e19.o
+	g++ -o e19 str1.o e19.o
