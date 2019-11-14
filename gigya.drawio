@@ -1,1 +1,74 @@
-<mxfile host="www.draw.io" modified="2019-11-14T15:37:20.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="zHV10l2NFyA3DNdIUZGA" type="github" pages="1"><diagram id="T51DL8VS3MEVyypuouv7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-14T16:04:00.498Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="cJfRhXO416659lQOfxvr" version="12.2.6" type="github" pages="1">
+  <diagram id="T51DL8VS3MEVyypuouv7" name="Page-1">
+    <mxGraphModel dx="1417" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;FrontEnd&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="274" width="187" height="266" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Gigya&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="22" width="184" height="134" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-4" value="" style="endArrow=classic;html=1;entryX=0.033;entryY=0.716;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="QNshcc1E57g5_kJ_p8iO-1" target="QNshcc1E57g5_kJ_p8iO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="405" as="sourcePoint"/>
+            <mxPoint x="115" y="355" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-5" value="2) login : e-mail + password" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;rotation=-45;" vertex="1" connectable="0" parent="QNshcc1E57g5_kJ_p8iO-4">
+          <mxGeometry x="0.1496" y="3" relative="1" as="geometry">
+            <mxPoint x="-28" y="15" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-8" value="" style="endArrow=classic;html=1;exitX=0.348;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QNshcc1E57g5_kJ_p8iO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="58" y="484" as="sourcePoint"/>
+            <mxPoint x="219" y="304" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-9" value="3) if credentials correct, send back UID signature triplet" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;rotation=-45;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="323.8078123794214" y="225.31341958341284" as="geometry">
+            <mxPoint x="-23" y="4" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-11" value="" style="endArrow=classic;html=1;entryX=0.022;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.428;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QNshcc1E57g5_kJ_p8iO-1" target="QNshcc1E57g5_kJ_p8iO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29" y="448" as="sourcePoint"/>
+            <mxPoint x="79" y="398" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-12" value="1) check if user already logged with SSO" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;rotation=-45;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="194.62533478794512" y="156.1241617177991" as="geometry">
+            <mxPoint x="-23" y="8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;BackEnd&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="274" width="187" height="266" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QNshcc1E57g5_kJ_p8iO-1" target="QNshcc1E57g5_kJ_p8iO-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="407" as="sourcePoint"/>
+            <mxPoint x="374" y="357" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-15" value="4) Send UID signature triplet&amp;nbsp;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="QNshcc1E57g5_kJ_p8iO-14">
+          <mxGeometry x="-0.143" relative="1" as="geometry">
+            <mxPoint x="20" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-16" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QNshcc1E57g5_kJ_p8iO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="272" as="sourcePoint"/>
+            <mxPoint x="79" y="561" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-17" value="5) Verify UID Signature triplet" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;rotation=45;" vertex="1" connectable="0" parent="QNshcc1E57g5_kJ_p8iO-16">
+          <mxGeometry x="-0.0377" relative="1" as="geometry">
+            <mxPoint x="10" y="-9" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
