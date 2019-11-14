@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T17:05:42.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="PXpvOOa4bGoosuGJWKZA" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T17:07:05.503Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Q0O9h-xdRHkmJtVJsAit" version="12.2.6" type="github" pages="1">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1417" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,16 +52,6 @@
         </mxCell>
         <mxCell id="v6aNzx2uJPFDIrJ7goDk-5" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Enum Level&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Critical&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Low&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Ok&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="567" y="224" width="180" height="78" as="geometry"/>
-        </mxCell>
-        <mxCell id="v6aNzx2uJPFDIrJ7goDk-6" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1.006;entryY=0.672;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v6aNzx2uJPFDIrJ7goDk-4" target="2ed32ef02a7f4228-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="567" y="328" as="sourcePoint"/>
-            <mxPoint x="639.5" y="567" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="666" y="334"/>
-              <mxPoint x="666" y="561"/>
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="v6aNzx2uJPFDIrJ7goDk-7" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.937;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.006;exitY=0.061;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2ed32ef02a7f4228-6" target="2ed32ef02a7f4228-8">
           <mxGeometry relative="1" as="geometry">
@@ -119,6 +109,16 @@
               <mxPoint x="27" y="531"/>
               <mxPoint x="284" y="531"/>
               <mxPoint x="284" y="615"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v6aNzx2uJPFDIrJ7goDk-13" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;labelBackgroundColor=none;startArrow=ERmandOne;endArrow=ERoneToMany;fontFamily=Verdana;fontSize=12;align=left;entryX=0.994;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.656;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v6aNzx2uJPFDIrJ7goDk-4" target="2ed32ef02a7f4228-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="747" y="535" as="sourcePoint"/>
+            <mxPoint x="937" y="505" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="662" y="331"/>
+              <mxPoint x="662" y="561"/>
             </Array>
           </mxGeometry>
         </mxCell>
