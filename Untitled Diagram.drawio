@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T15:23:22.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="q8hTou4hJZVfH0mX9wDH" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T15:23:31.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bs3anwsYokMjPDoca9I9" version="12.2.6" type="github" pages="1">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1417" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7a5-o8HqeozauI7hd3fz-15" value="Capteur" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="741.5" y="65" as="geometry">
+          <mxGeometry x="741.5" y="59" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
