@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-11-14T15:18:00.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="YuYsAmJTaxKqP8Yx17WG" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T15:20:46.430Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="QttJlWfDJnBvu_UFDI68" version="12.2.6" type="github" pages="1">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1417" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="7a5-o8HqeozauI7hd3fz-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7a5-o8HqeozauI7hd3fz-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#F4F7FC;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="158" y="200" width="426" height="492" as="geometry"/>
         </mxCell>
         <mxCell id="1ea317790d2ca983-13" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="1" source="1ea317790d2ca983-1" target="1ea317790d2ca983-9" edge="1">
@@ -96,8 +96,8 @@
             <mxPoint x="371" y="116" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7a5-o8HqeozauI7hd3fz-14" value="Admin / Filliale Total / Compte de regroupement / Distributeur / Utilisateur final&amp;nbsp;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="249.5" y="152" as="geometry">
+        <mxCell id="7a5-o8HqeozauI7hd3fz-14" value="Admin / Filliale Total / Compte de regroupement&lt;br&gt;&amp;nbsp;/ Distributeur / Utilisateur final&amp;nbsp;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="247.5" y="161" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
