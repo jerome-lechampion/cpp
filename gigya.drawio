@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T16:04:00.498Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="cJfRhXO416659lQOfxvr" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T16:08:00.006Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="HUE1nH4fBg12d4Fb8NpI" version="12.2.6" type="github" pages="1">
   <diagram id="T51DL8VS3MEVyypuouv7" name="Page-1">
     <mxGraphModel dx="1417" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,28 @@
         <mxCell id="QNshcc1E57g5_kJ_p8iO-17" value="5) Verify UID Signature triplet" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;rotation=45;" vertex="1" connectable="0" parent="QNshcc1E57g5_kJ_p8iO-16">
           <mxGeometry x="-0.0377" relative="1" as="geometry">
             <mxPoint x="10" y="-9" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-18" value="" style="endArrow=classic;html=1;entryX=1.005;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QNshcc1E57g5_kJ_p8iO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="608" y="443" as="sourcePoint"/>
+            <mxPoint x="79" y="561" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-19" value="6) Send JWT containing gigya UID encode with private key" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="QNshcc1E57g5_kJ_p8iO-18">
+          <mxGeometry x="-0.0743" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-20" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QNshcc1E57g5_kJ_p8iO-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217" y="499" as="sourcePoint"/>
+            <mxPoint x="79" y="561" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNshcc1E57g5_kJ_p8iO-21" value="7) Use JWT as&amp;nbsp;&lt;span style=&quot;color: rgb(80 , 80 , 80) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; white-space: pre-wrap&quot;&gt;Authorization&lt;/span&gt;&amp;nbsp;Token" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="QNshcc1E57g5_kJ_p8iO-20">
+          <mxGeometry x="0.0306" y="4" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
       </root>
